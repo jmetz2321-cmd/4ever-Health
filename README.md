@@ -34,23 +34,6 @@ Professional fitness coaching costs **$300–600/month** and remains out of reac
 - Apple Health app (for wearable sync)
 - Basic health profile setup
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/stryvur.git
-cd stryvur
-
-# Install dependencies
-npm install
-
-# Configure environment
-cp .env.example .env
-# Add your API keys and settings
-
-# Start the development server
-npm run dev
-```
 
 ### First Workout
 
@@ -97,9 +80,6 @@ git push origin feature/your-idea
 ## Roadmap
 
 - [x] Apple Health integration
-- [ ] Google Fit support
-- [ ] Wearable HR-based workout adjustments
-- [ ] Nutrition meal planning with barcode scanning
 - [ ] Coach community features (leaderboards, challenges)
 - [ ] Biomarker testing partnerships (blood work insights)
 
@@ -107,11 +87,6 @@ git push origin feature/your-idea
 
 MIT License – see [LICENSE](LICENSE) for details.
 
-## Support & Contact
-
-- 📧 **Email:** support@stryvur.com
-- 💬 **Discord:** [Join our community](#)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/stryvur/issues)
 
 ---
 
